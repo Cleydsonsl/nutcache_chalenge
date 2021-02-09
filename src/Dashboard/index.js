@@ -5,15 +5,15 @@ import implement, { Interface, type } from 'implement-js';
 import './style.css';
 import logo from '../assets/nutcache.png'
 
-const Register = Interface()({
-  name: String,
-  date_birth: String,
-  sex: String,
-  email: String,
-  cpf: String,
-  date_start: String,
-  team: String
-})
+// const Register = Interface()({
+//   name: String,
+//   date_birth: String,
+//   sex: String,
+//   email: String,
+//   cpf: String,
+//   date_start: String,
+//   team: String
+// })
 
 
 
